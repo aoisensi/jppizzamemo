@@ -1,0 +1,1275 @@
+[
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-AndJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 27,
+        "height": 63
+      },
+      "sourceRect": {
+        "x": 1192,
+        "y": 976,
+        "width": 27,
+        "height": 63
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-BallJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 134,
+        "height": 54
+      },
+      "sourceRect": {
+        "x": 907,
+        "y": 782,
+        "width": 134,
+        "height": 54
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-BirdhouseJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 124,
+        "height": 50
+      },
+      "sourceRect": {
+        "x": 1017,
+        "y": 569,
+        "width": 124,
+        "height": 50
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-BlueJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 104,
+        "height": 54
+      },
+      "sourceRect": {
+        "x": 994,
+        "y": 374,
+        "width": 104,
+        "height": 54
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-BoardedJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 193,
+        "height": 45
+      },
+      "sourceRect": {
+        "x": 347,
+        "y": 995,
+        "width": 193,
+        "height": 45
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-BrickJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 154,
+        "height": 57
+      },
+      "sourceRect": {
+        "x": 615,
+        "y": 984,
+        "width": 154,
+        "height": 57
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-BrownJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 169,
+        "height": 64
+      },
+      "sourceRect": {
+        "x": 335,
+        "y": 891,
+        "width": 169,
+        "height": 64
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-BushesJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 130,
+        "height": 67
+      },
+      "sourceRect": {
+        "x": 690,
+        "y": 676,
+        "width": 130,
+        "height": 67
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-CarJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 95,
+        "height": 59
+      },
+      "sourceRect": {
+        "x": 603,
+        "y": 41,
+        "width": 95,
+        "height": 59
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-ChimneyJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 150,
+        "height": 72
+      },
+      "sourceRect": {
+        "x": 1002,
+        "y": 967,
+        "width": 150,
+        "height": 72
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-DarkJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 106,
+        "height": 60
+      },
+      "sourceRect": {
+        "x": 848,
+        "y": 380,
+        "width": 106,
+        "height": 60
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-DirtJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 68,
+        "height": 51
+      },
+      "sourceRect": {
+        "x": 1138,
+        "y": 366,
+        "width": 68,
+        "height": 51
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-DoorJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 81,
+        "height": 67
+      },
+      "sourceRect": {
+        "x": 604,
+        "y": 140,
+        "width": 81,
+        "height": 67
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-DrivewayJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 232,
+        "height": 86
+      },
+      "sourceRect": {
+        "x": 40,
+        "y": 823,
+        "width": 232,
+        "height": 86
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-EntranceJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 193,
+        "height": 61
+      },
+      "sourceRect": {
+        "x": 615,
+        "y": 1081,
+        "width": 193,
+        "height": 61
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-FenceJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 114,
+        "height": 43
+      },
+      "sourceRect": {
+        "x": 479,
+        "y": 536,
+        "width": 114,
+        "height": 43
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-FindJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 178,
+        "height": 63
+      },
+      "sourceRect": {
+        "x": 40,
+        "y": 159,
+        "width": 178,
+        "height": 63
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-FlamingoJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 185,
+        "height": 75
+      },
+      "sourceRect": {
+        "x": 40,
+        "y": 464,
+        "width": 185,
+        "height": 75
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-FlowersJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 145,
+        "height": 58
+      },
+      "sourceRect": {
+        "x": 544,
+        "y": 800,
+        "width": 145,
+        "height": 58
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-FrontJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 193,
+        "height": 61
+      },
+      "sourceRect": {
+        "x": 848,
+        "y": 1081,
+        "width": 193,
+        "height": 61
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-GarageJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 190,
+        "height": 55
+      },
+      "sourceRect": {
+        "x": 40,
+        "y": 262,
+        "width": 190,
+        "height": 55
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-GarbageJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 101,
+        "height": 70
+      },
+      "sourceRect": {
+        "x": 700,
+        "y": 337,
+        "width": 101,
+        "height": 70
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-GrayJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 138,
+        "height": 60
+      },
+      "sourceRect": {
+        "x": 729,
+        "y": 783,
+        "width": 138,
+        "height": 60
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-GreenJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 255,
+        "height": 73
+      },
+      "sourceRect": {
+        "x": 40,
+        "y": 949,
+        "width": 255,
+        "height": 73
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-GrillJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 133,
+        "height": 72
+      },
+      "sourceRect": {
+        "x": 1081,
+        "y": 752,
+        "width": 133,
+        "height": 72
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-HoopsJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 267,
+        "height": 80
+      },
+      "sourceRect": {
+        "x": 40,
+        "y": 1062,
+        "width": 267,
+        "height": 80
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-HouseJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 165,
+        "height": 58
+      },
+      "sourceRect": {
+        "x": 312,
+        "y": 684,
+        "width": 165,
+        "height": 58
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-LadderJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 128,
+        "height": 51
+      },
+      "sourceRect": {
+        "x": 517,
+        "y": 619,
+        "width": 128,
+        "height": 51
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-LeftJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 125,
+        "height": 53
+      },
+      "sourceRect": {
+        "x": 852,
+        "y": 576,
+        "width": 125,
+        "height": 53
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-LightJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 152,
+        "height": 46
+      },
+      "sourceRect": {
+        "x": 544,
+        "y": 898,
+        "width": 152,
+        "height": 46
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-LinedJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 228,
+        "height": 62
+      },
+      "sourceRect": {
+        "x": 347,
+        "y": 1080,
+        "width": 228,
+        "height": 62
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-LookJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 155,
+        "height": 58
+      },
+      "sourceRect": {
+        "x": 258,
+        "y": 63,
+        "width": 155,
+        "height": 58
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-MessyJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 173,
+        "height": 65
+      },
+      "sourceRect": {
+        "x": 40,
+        "y": 54,
+        "width": 173,
+        "height": 65
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-NoJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 129,
+        "height": 53
+      },
+      "sourceRect": {
+        "x": 1028,
+        "y": 659,
+        "width": 129,
+        "height": 53
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-OnJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 46,
+        "height": 53
+      },
+      "sourceRect": {
+        "x": 862,
+        "y": 179,
+        "width": 46,
+        "height": 53
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-OneJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 136,
+        "height": 51
+      },
+      "sourceRect": {
+        "x": 920,
+        "y": 876,
+        "width": 136,
+        "height": 51
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-OrangeJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 232,
+        "height": 85
+      },
+      "sourceRect": {
+        "x": 40,
+        "y": 698,
+        "width": 232,
+        "height": 85
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-PatchJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 96,
+        "height": 68
+      },
+      "sourceRect": {
+        "x": 843,
+        "y": 272,
+        "width": 96,
+        "height": 68
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-PathJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 101,
+        "height": 37
+      },
+      "sourceRect": {
+        "x": 979,
+        "y": 297,
+        "width": 101,
+        "height": 37
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-PickupTruckJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 113,
+        "height": 61
+      },
+      "sourceRect": {
+        "x": 1013,
+        "y": 468,
+        "width": 113,
+        "height": 61
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-PicnicJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 131,
+        "height": 50
+      },
+      "sourceRect": {
+        "x": 519,
+        "y": 710,
+        "width": 131,
+        "height": 50
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-PinkJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 153,
+        "height": 67
+      },
+      "sourceRect": {
+        "x": 809,
+        "y": 974,
+        "width": 153,
+        "height": 67
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-PizzaJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 147,
+        "height": 63
+      },
+      "sourceRect": {
+        "x": 1081,
+        "y": 1079,
+        "width": 147,
+        "height": 63
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-PlanksJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 101,
+        "height": 74
+      },
+      "sourceRect": {
+        "x": 468,
+        "y": 247,
+        "width": 101,
+        "height": 74
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-PlantsJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 188,
+        "height": 67
+      },
+      "sourceRect": {
+        "x": 40,
+        "y": 357,
+        "width": 188,
+        "height": 67
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-PurpleJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 200,
+        "height": 79
+      },
+      "sourceRect": {
+        "x": 40,
+        "y": 579,
+        "width": 200,
+        "height": 79
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-RedJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 144,
+        "height": 51
+      },
+      "sourceRect": {
+        "x": 736,
+        "y": 883,
+        "width": 144,
+        "height": 51
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-RightJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 103,
+        "height": 50
+      },
+      "sourceRect": {
+        "x": 700,
+        "y": 247,
+        "width": 103,
+        "height": 50
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-RockJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 83,
+        "height": 55
+      },
+      "sourceRect": {
+        "x": 725,
+        "y": 447,
+        "width": 83,
+        "height": 55
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-RoofJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 127,
+        "height": 94
+      },
+      "sourceRect": {
+        "x": 685,
+        "y": 542,
+        "width": 127,
+        "height": 94
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-RugJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 167,
+        "height": 69
+      },
+      "sourceRect": {
+        "x": 312,
+        "y": 782,
+        "width": 167,
+        "height": 69
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-SideJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 98,
+        "height": 61
+      },
+      "sourceRect": {
+        "x": 738,
+        "y": 40,
+        "width": 98,
+        "height": 61
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-SmallJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 134,
+        "height": 63
+      },
+      "sourceRect": {
+        "x": 1096,
+        "y": 864,
+        "width": 134,
+        "height": 63
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-StoneJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 111,
+        "height": 31
+      },
+      "sourceRect": {
+        "x": 465,
+        "y": 465,
+        "width": 111,
+        "height": 31
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-SwingJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 121,
+        "height": 56
+      },
+      "sourceRect": {
+        "x": 852,
+        "y": 480,
+        "width": 121,
+        "height": 56
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-TableJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 160,
+        "height": 63
+      },
+      "sourceRect": {
+        "x": 265,
+        "y": 471,
+        "width": 160,
+        "height": 63
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-TakeJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 156,
+        "height": 59
+      },
+      "sourceRect": {
+        "x": 258,
+        "y": 161,
+        "width": 156,
+        "height": 59
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-TreeJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 51,
+        "height": 72
+      },
+      "sourceRect": {
+        "x": 1166,
+        "y": 457,
+        "width": 51,
+        "height": 72
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-TreesJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 51,
+        "height": 72
+      },
+      "sourceRect": {
+        "x": 609,
+        "y": 254,
+        "width": 51,
+        "height": 72
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-WhiteJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 158,
+        "height": 58
+      },
+      "sourceRect": {
+        "x": 270,
+        "y": 260,
+        "width": 158,
+        "height": 58
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-WindowJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 110,
+        "height": 64
+      },
+      "sourceRect": {
+        "x": 458,
+        "y": 361,
+        "width": 110,
+        "height": 64
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-WindowsJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 110,
+        "height": 64
+      },
+      "sourceRect": {
+        "x": 454,
+        "y": 143,
+        "width": 110,
+        "height": 64
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-WithJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 128,
+        "height": 73
+      },
+      "sourceRect": {
+        "x": 860,
+        "y": 669,
+        "width": 128,
+        "height": 73
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-WoodJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 97,
+        "height": 66
+      },
+      "sourceRect": {
+        "x": 725,
+        "y": 141,
+        "width": 97,
+        "height": 66
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-WorkJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 150,
+        "height": 73
+      },
+      "sourceRect": {
+        "x": 268,
+        "y": 358,
+        "width": 150,
+        "height": 73
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-YardJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 110,
+        "height": 42
+      },
+      "sourceRect": {
+        "x": 453,
+        "y": 61,
+        "width": 110,
+        "height": 42
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/source/img~1pictures~1PIZZA-YellowJP.png",
+    "value": {
+      "atlasName": "MN_PizzaItems",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 159,
+        "height": 70
+      },
+      "sourceRect": {
+        "x": 280,
+        "y": 574,
+        "width": 159,
+        "height": 70
+      }
+    }
+  }
+]

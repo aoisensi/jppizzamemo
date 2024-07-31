@@ -1,0 +1,19 @@
+{
+  "id": "jppizzamemo",
+  "name": "ピザメモ日本語版",
+  "description": "ピザメモをXbox版にのみ存在する日本語版に置き換えます",
+  "version": "1.0.0",
+  "manifestVersion": 1,
+  "files": {
+    "assets": [
+      "img/atlases/MN_PizzaItems.png"
+    ],
+    "data": [
+      "data/Atlas.yamld"
+    ],
+    "text": [
+      "languages/XX_BLUE.yamld"
+    ]
+  },
+  "$schema": "https://rph.space/oneloader.manifestv1.schema.json"
+}
